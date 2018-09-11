@@ -1,0 +1,49 @@
+
+//////////APPLICATION URL/////////////////
+url=https://transit-apt.ciotest.accenture.com/
+
+/////SERVICE STRING OF BROWSER////////////////
+servicestring=C:\\Users\\bhagyalaxmi.sahu\\Documents\\chromedriver_win32\\chromedriver.exe
+
+
+/////////LOGIN USERNAME AND PASSWORD/////////////
+eid=bhagyalaxmi.sahu
+password=Pintu@1985
+
+filelocation=C:/Users/bhagyalaxmi.sahu/Downloads
+
+////////////////DOWNLOADED FILE PREFIX////////////////
+filename=ProjectStaffingPlan_ProjectSetup_
+filename1=ProjectStaffing_Actual_
+sdofilename=Service Delivery Wave Staffing Tracker_
+sdofilename1=Service Delivery Wave Staffing Tracker_10589652_AutomationMay2018_test_08-01-2018_17-29.xlsm
+wavesetup=Wave Setup_
+waveworkstrmsetup=WaveWorkstreamSetup_
+sdowavefile=Service Delivery Wave Staffing Tracker_10580464_9thMar2018_Two_08-01-2018_17-04.xlsm
+TTfilename=Travel Tracker_
+TTwavefile=Travel Tracker_10580464_9thMar2018_07-04-2018_10-31.xlsm
+projectUseraccess=ProjectUserAccess
+planSetup=AutomationMay2018_DetailedProjectPlan_
+projectstaff=Plan Staffing
+executionsummary=Execution Dashboard
+trainthetrainerTTTtracker=TTT_Tracker_
+dtttrackerfile=DTT_Tracker_
+tttassessment=TTT Assessments_
+projectplanactuals= OverallProjectPlan_
+projectstaffactuals=ActualStaffing_
+dttassessment=Delivery Team Training Assessments_
+twetrackerfile=Technology & Work Environment Setup_
+tweacctrackerfile=Technology & Work Environment Access Tracker_
+
+HistoryViewColumns=#;DATA MODIFIED;OLD VALUE;NEW VALUE;UPDATED ON;UPDATED BY;
+MECArtifactColumns=;#;;CATEGORY *;FILE NAME *;FILE TYPE *;UPLOADED DATE;LAST UPDATED BY;ACTION;
+CurrentPlanColumnsWithFilter=MILESTONE;;OWNER CATEGORY*;LEVEL;WAVE;WORKSTREAM*;OWNER (ENTERPRISE ID)*;
+
+GridSettingColumns=;#;MILESTONE;CRITICAL PATH;OWNER CATEGORY*;LEVEL;WAVE;WORKSTREAM*;CATEGORY;ACTIVITY*;PLANNED START DATE*;PLANNED END DATE*;ACTUAL START DATE;ACTUAL END DATE;DURATION (DAYS);COMPLETE (%);OWNER (ENTERPRISE ID)*;COMMENTS;ACTIONS;;
+AddRoleFeilds=Role*;Level*;Location*;Deal/ Wave*;Sourcing*;
+AddActivityFeilds=Milestone;Critical Path;Owner Category;Level;Wave;Workstream;Category;Activity;Planned Start Date;Planned End Date;Duration;Owner;
+
+TTTAssessmentsColumnsWithFilter=;TRAINING TOPIC *;TRAINEE NAME *;ASSESSMENT DATE (*);
+DTTTrackerColumnWithSortFilter=;TRAINING TOPIC/ ACTIVITY*;% COMPLETE(*);ACCENTURE KNOWLEDGE RECIPIENTS(*);
+
+DTTAssessmentsColumnsWithSort=;TRAINING TOPIC *;TRAINEE NAME *;ASSESSMENT DATE (*);
